@@ -10,7 +10,7 @@ This repository contains a clone of the Tesla website homepage using HTML, CSS, 
 
 ## Preview
 
-![Tesla Website Clone Preview](preview.png)
+![Capture](https://github.com/IT21117428/tesla-project/assets/87494020/4077b8c5-18b0-4cae-9899-70e94a4522fb)
 
 ## Technologies Used
 
@@ -50,5 +50,3 @@ Contributions are welcome! If you have any suggestions, or improvements, or find
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-![Capture](https://github.com/IT21117428/tesla-project/assets/87494020/4077b8c5-18b0-4cae-9899-70e94a4522fb)
